@@ -2,10 +2,14 @@
     "extra_cmdline": {
         "pid": "0x6545",
         "vid": "0x0930",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "sn": "15C2LWN165200",
+        "mac1": "00113352E8E5",
+        "mac2": "F8E43B78CFAR",
+        "netif_num": 2
     },
-    "synoinfo": {},
+    "synoinfo": {
+      "maxlanport": "2"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
