@@ -9,7 +9,7 @@
 感谢 @haydibe 提供 RedPill Tool Chain
 
 - `sudo ./redpill_tool_chain.sh build ds918p-7.0.1-42218`
-- `/redpill_tool_chain.sh add https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/rpext-index.json`
+- `./redpill_tool_chain.sh add https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/rpext-index.json`
 - `./redpill_tool_chain.sh add https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/rpext-index.json`
 - `./redpill_tool_chain.sh add https://github.com/jumkey/redpill-load/raw/develop/redpill-misc/rpext-index.json`
 - `sudo ./redpill_tool_chain.sh auto ds918p-7.0.1-42218`
