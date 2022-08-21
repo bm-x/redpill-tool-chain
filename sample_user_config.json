@@ -1,15 +1,15 @@
 {
-    "extra_cmdline": {
-        "pid": "0x6545",
-        "vid": "0x0930",
-        "sn": "15C2LWN165200",
-        "mac1": "00113352E8E5",
-        "mac2": "F8E43B78CFAR",
-        "netif_num": 2
-    },
-    "synoinfo": {
-      "maxlanport": "2"
-    },
-    "ramdisk_copy": {},
-    "extensions": []
+  "extra_cmdline": {
+    "pid": "0x0001",
+    "vid": "0x46f4",
+    "sn": "15C2LWN165200",
+    "mac1": "00E0B41D0E86",
+    "mac2": "F8E43B78CFAR",
+    "netif_num": 2
+  },
+  "synoinfo": {
+    "maxlanport": "2"
+  },
+  "ramdisk_copy": {},
+  "extensions": []
 }
