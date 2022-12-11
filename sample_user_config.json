@@ -3,9 +3,9 @@
     "pid": "0x0226",
     "vid": "0x1908",
     "sn": "1851PDN143209",
-    "mac1": "001132920AD9",
-    "mac2": "F8E43B78CFAR",
-    "netif_num": 1
+    "mac1": "00112233AABB",
+    "mac2": "00112233AACC",
+    "netif_num": 2
   },
   "synoinfo": {
     "maxlanport": "2"
